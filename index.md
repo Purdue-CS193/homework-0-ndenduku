@@ -1,3 +1,11 @@
+# ndenduku's First CS193 Homework
+
+### Favorite things about CS193
+
+- How useful the class is
+- How helpful the class is
+- the ability to meet on zoom with your PSO TA's for help
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,21 +33,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-# Hello
-## Hello
-### Hello
-
-- Bulleted
-- List
-- example
-
-1. Numbered
-2. List
-3. example
-
-**Bold** and _Italic_
-[Link](url) and ![Image](src)
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
