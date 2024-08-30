@@ -25,6 +25,20 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Hello
+## Hello
+### Hello
+
+- Bulleted
+- List
+- example
+
+1. Numbered
+2. List
+3. example
+
+**Bold** and _Italic_
+[Link](url) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
